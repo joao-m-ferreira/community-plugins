@@ -1,5 +1,11 @@
 # @backstage-community/plugin-argocd-backend
 
+## 1.4.1
+
+### Patch Changes
+
+- 53f7107: Registered actions for ArgoCD application management: `argocd:find-applications`, `argocd:get-application`, `argocd:list-applications`, `argocd:get-revision-details`
+
 ## 1.4.0
 
 ### Minor Changes
