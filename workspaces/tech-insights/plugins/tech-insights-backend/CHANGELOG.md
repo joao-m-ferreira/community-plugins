@@ -1,5 +1,11 @@
 # @backstage-community/plugin-tech-insights-backend
 
+## 2.5.3
+
+### Patch Changes
+
+- c120454: Updated dependency `@types/supertest` to `^7.0.0`.
+
 ## 2.5.2
 
 ### Patch Changes
