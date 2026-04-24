@@ -4,7 +4,7 @@
 
 ### Patch Changes
 
-- c120454: Updated dependency `@types/supertest` to `^7.0.0`.
+- c120454: Updated dependency `@types/supertest` to `7.2.0`.
 
 ## 1.29.0
 
